@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: drawnow
+Version: 0.72.0
+Summary: MATLAB-like drawnow
+Home-page: https://github.com/stsievert/python-drawnow
+Author: Scott Sievert
+Author-email: stsievert@wisc.edu
+License: UNKNOWN
+Download-URL: https://github.com/stsievert/python-drawnow/archive/master.zip
+Description-Content-Type: UNKNOWN
+Keywords: figure,plotting,visualization,matlab
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Visualization
+Requires: matplotlib
+Requires-Dist: matplotlib (>=1.5)
+
+UNKNOWN
+
+
