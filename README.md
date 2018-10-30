@@ -1,8 +1,8 @@
 # Cross Flow Dryers - Algorithm
 
 * **contributors**
-> Higor Felype      : [git](github.io/higor21)  
-> Lucas Lyon        : whithout git  
-> Matheus Oliveira  : [git](github.io/mofreitas)  
+> Higor Felype      : [git](github.com/higor21)  
+> Lucas Lyon        : [git](github.com/lucaslyon96)  
+> Matheus Oliveira  : [git](github.com/mofreitas)  
 > Saulo Erick       : whithout git  
   
