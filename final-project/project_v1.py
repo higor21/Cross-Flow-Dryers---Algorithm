@@ -76,4 +76,4 @@ class Comunicacao (Thread):
 			complexo[i] = usart.readStr(1)
 		fft_filtrada.append(complex(real, complexo))
 		sound_ifft = fft.ifft(fft_filtrada)
-		fim = true
+		fim = True

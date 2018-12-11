@@ -1,0 +1,9 @@
+README.txt
+setup.cfg
+/Users/scott/Work/Developer/python-drawnow/build/lib/drawnow.egg-info/PKG-INFO
+/Users/scott/Work/Developer/python-drawnow/build/lib/drawnow.egg-info/SOURCES.txt
+/Users/scott/Work/Developer/python-drawnow/build/lib/drawnow.egg-info/dependency_links.txt
+/Users/scott/Work/Developer/python-drawnow/build/lib/drawnow.egg-info/requires.txt
+/Users/scott/Work/Developer/python-drawnow/build/lib/drawnow.egg-info/top_level.txt
+drawnow/__init__.py
+drawnow/drawnow.py
